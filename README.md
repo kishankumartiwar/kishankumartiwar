@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://www.zazzle.com/im_coding_square_sticker-217091620707587331)" alt="Snake animation" />
 
 ###
